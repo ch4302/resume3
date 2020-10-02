@@ -24,3 +24,5 @@
 ***
 * Jupyter notebook 
 * tensorflow
+
+[Google](www.google.co.kr)
